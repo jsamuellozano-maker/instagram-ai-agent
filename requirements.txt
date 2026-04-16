@@ -1,0 +1,6 @@
+instagrapi
+openai
+pillow
+requests
+schedule
+python-dotenv
